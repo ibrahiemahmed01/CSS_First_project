@@ -745,6 +745,9 @@ nav label:hover{
         font-size: 15px;
         margin: auto;
     }
+    .heading .logo-image img:nth-of-type(1){
+        height: 115%;
+    }
 }
 
 @media (min-width:601px) and (max-width:770px) {
