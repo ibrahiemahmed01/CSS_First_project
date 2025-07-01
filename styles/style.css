@@ -1618,7 +1618,7 @@ section{
     .gaming .cover .cridit .top .logo-1{
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: center ;
         margin: auto;
     }
     
