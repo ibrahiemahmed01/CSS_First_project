@@ -728,6 +728,13 @@ nav label:hover{
 }
 
 @media (max-width:400px) {
+    header{
+    min-height: 130vh;
+    background:url(../images/h1-hero-2-1.png) no-repeat center,#0e1921 ;
+    background-size: cover;
+    margin: auto;
+    width: 100%;
+    }
     .heading .details h1{
         font-size: 30px;
     }
